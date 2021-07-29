@@ -1,6 +1,6 @@
 # RescueMeter
 
-I have a bad habit of spending way too much time on screens. RescueMeter is an experimental service to help me and my friends cut down on our screen time by agreeing to pay a set amount of money per hour of screen time.
+I have a bad habit of spending way too much time on screens. RescueMeter is an experimental service to help me and who ever wants to join me cut down on our screen time by agreeing to pay a set amount of money per hour of screen time.
 
 ## Sign up
 
